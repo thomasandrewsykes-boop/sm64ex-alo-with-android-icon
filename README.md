@@ -1,4 +1,4 @@
-# this is a fork of a fork with a icon on Android
+# This is a fork of a fork with a icon on Android
 
 # sm64ex_alo
 Fork of [sm64pc/sm64ex](https://github.com/sm64pc/sm64ex) with additional features. 
